@@ -23,7 +23,7 @@
 
 - Reverse Engineering
 - Discord Bots
-- Lua(u) scripting | for both games & cheats
+- Luau scripting | for both games & cheats
 - Low Level Development
 
 ---
