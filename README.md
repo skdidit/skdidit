@@ -47,18 +47,27 @@ I enjoy:
 <div align="center">
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=lua,cpp,python&theme=dark&perline=3" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-**Focus Areas**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=discordjs,nodejs,linux,vscode&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark&perline=2" />
+
+</td>
+<td align="center" width="33%">
+
+**Roblox Executors**
+
+<img src="https://i.postimg.cc/Y02ygKsf/image.png" height="48" alt="Macsploit" />
+&nbsp;&nbsp;
+<img src="https://i.postimg.cc/28KXqtFC/image.png" height="48" alt="Opiumware" />
 
 </td>
 </tr>
