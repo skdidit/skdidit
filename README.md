@@ -12,7 +12,7 @@
 
 ---
 
-I work mainly in **Lua/Luau**, **C++**, and **Python**, and spend most of my time around reverse engineering, low level execution work, and Discord bot development.
+I work mainly in **Lua/Luau**, **C++**, and **Python**, and spend most of my time around reverse engineering, exploiting vulnerabilities in roblox games, and Discord bot development.
 
 I enjoy:
 - Reverse engineering and breaking down how things run under the hood
