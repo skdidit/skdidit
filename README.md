@@ -42,6 +42,31 @@ I enjoy:
 
 ---
 
+## My Tech Stack
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=lua,cpp,python&theme=dark&perline=3" />
+
+</td>
+<td align="center" width="50%">
+
+**Focus Areas**
+
+<img src="https://skillicons.dev/icons?i=discordjs,nodejs,linux,vscode&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ### Stats
 
 <p align="center">
