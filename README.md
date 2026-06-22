@@ -15,10 +15,9 @@
 I work mainly in **Lua/Luau**, **C++**, and **Python**, and spend most of my time around reverse engineering, exploiting vulnerabilities in roblox games, and Discord bot development.
 
 I enjoy:
-- Reverse engineering and breaking down how things run under the hood
+- Reverse engineering and low level development in general
 - Building Discord bots
 - Luau scripting for both games and cheats
-- Low level / execution development on Roblox
 
 ## Projects
 
