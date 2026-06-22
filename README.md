@@ -32,7 +32,7 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skdidit&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
