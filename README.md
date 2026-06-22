@@ -42,3 +42,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdidit&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
+---
+
+### Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skdidit&bg_color=00000000&color=ffffff&line=888888&point=ffffff&hide_border=true" />
+</p>
