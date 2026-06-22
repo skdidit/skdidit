@@ -21,7 +21,7 @@ I enjoy:
 
 ## Projects
 
-### Helius: Roblox Executor
+### Helios: Roblox Executor
 *In development*
 
 - Roblox executor built from the ground up, with a focus on macOS support
