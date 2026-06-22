@@ -10,36 +10,26 @@
   Discord: <b>sxbdu</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skdidit&label=Profile+Views&color=2b2b2b&style=flat" alt="profile views" />
-</p>
-
 ---
 
-### Languages
+### My Stack
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/lua/FFFFFF" width="60" height="60" alt="Lua" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/lua/FFFFFF" width="60" height="60" alt="Luau" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="60" height="60" alt="C++" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="60" height="60" alt="Python" />
-</p>
-
-<p align="center">
-  <b>Lua</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Luau</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Python</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/lua/2C2D72" width="60" height="60" alt="Lua" /><br><b>Lua / Luau</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="60" height="60" alt="C++" /><br><b>C++</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="60" height="60" alt="Python" /><br><b>Python</b></td>
+  </tr>
+</table>
 
 ---
 
 ### Interests
 
-- 🔍 Reverse Engineering
-- 🤖 Discord Bots
-- 🎮 Luau scripting | for both games & cheats
-- ⚙️ Low Level Development
+- Reverse Engineering
+- Discord Bots
+- Luau scripting | for both games & cheats
+- Low Level Development
 
 ---
 
