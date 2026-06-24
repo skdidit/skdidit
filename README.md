@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Lua+%2F+Lua(u);C%2B%2B;C%2B%2B+Reverse+Engineering;Python;Discord+Bot+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Lua+%2F+Lua(u);C%2B%2B;C%2B%2B+Reverse+Engineering;Python;Discord+Bot+Developer;Roblox+Studio+UI+Designer" />
   </a>
 </p>
 
