@@ -28,13 +28,6 @@ I enjoy:
 - Successfully achieved **Level 8 execution on macOS**
 - Releasing soon
 
-### Project 1972
-- Developer on **Project 1972**, a Roblox game
-
-### Nucleo: Victorian Science Talent Search
-- Entry for the **Victorian Science Talent Search** (VIC, Australia): advanced to the **second round**
-- A Duolingo/Gizmo inspired learning app focused on biology and cell science
-
 ### Roblox Script Hubs
 - Owned and operated multiple Roblox script hubs over time
 
