@@ -1,6 +1,6 @@
 # i'm sk
 
-# i work with
+## i work with
 - C++
 - Luau
 - Python
