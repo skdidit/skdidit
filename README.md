@@ -2,7 +2,7 @@
 
 ## I work with:
 
-| Tools | Languages |
+| Tools & Platforms | Languages |
 | --- | --- |
 | <img src="./icons/Github-Dark.svg" width="48"> |        <img src="./icons/CPP.svg" width="48"> |       
 | <img src="./icons/GitLab-Dark.svg" width="48"> |    <img src="./icons/Python-Dark.svg" width="48"> |
