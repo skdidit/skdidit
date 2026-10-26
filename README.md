@@ -1,4 +1,3 @@
-# i'm sk
-(fr 🔥)
+# i'm sk (fr 🔥)
 
 ![](gif.gif)
