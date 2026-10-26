@@ -7,6 +7,7 @@
 
 ## projects
 **Helios** \
-check out the website: https://helios.best/
+a macOS executor with 100% sUNC and 99% UNC \
+[website](https://helios.best/)
 
 ![](gif.gif)
