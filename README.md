@@ -1,8 +1,8 @@
 # i'm sk
 
 ## i work with
-|       `C++`        |        <img src="./icons/CPP.svg" width="48">         | \
-|        `Python`        |    <img src="./icons/Python-Dark.svg" width="48">     | \
+|       `C++`        |        <img src="./icons/CPP.svg" width="48">         |
+|        `Python`        |    <img src="./icons/Python-Dark.svg" width="48">     |
 
 
 ## projects
