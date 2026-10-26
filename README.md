@@ -1,6 +1,6 @@
 # i'm sk
 
-**My Stats (last 30 days):** \
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=skdidit&theme=nord&days=30&width=320&height=80)
+# i work with
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=skdidit&theme=nord&label=a)
 
 ![](gif.gif)
