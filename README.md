@@ -1,8 +1,13 @@
 # i'm sk
 
 ## i work with
+
+| Language |
+| --- |
 |        <img src="./icons/CPP.svg" width="48">         |
 |    <img src="./icons/Python-Dark.svg" width="48">     |
+
+|        <img src="./icons/CPP.svg" width="48">         |
 
 
 ## projects
