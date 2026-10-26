@@ -1,8 +1,6 @@
 # i'm sk
-/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-**My Stats:** \
-/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
-![Contributions](https://ghstats.dev/api/mini?username=skdidit&theme=nord&metric=contributions&label=Contributions) \
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=skdidit&theme=nord&metric=repos&label=Public+Repositories)
+
+**My Stats:**
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=skdidit&theme=nord&days=30&width=320&height=80)
 
 ![](gif.gif)
