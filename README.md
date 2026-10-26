@@ -2,10 +2,10 @@
 
 ## i work with
 
-| Language |
-| --- |
-|        <img src="./icons/CPP.svg" width="48">         |
-|    <img src="./icons/Python-Dark.svg" width="48">     |
+| Languages | Tools |
+| --- | --- |
+|        <img src="./icons/CPP.svg" width="48">        | <img src="./icons/VSCode-Dark.svg" width="48"> |
+|    <img src="./icons/Python-Dark.svg" width="48">    | <img src="./icons/ida.svg" width="48"> |
 |    <img src="./icons/Lua-Dark.svg" width="48">     |
 
 
