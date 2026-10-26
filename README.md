@@ -6,8 +6,7 @@
 | --- |
 |        <img src="./icons/CPP.svg" width="48">         |
 |    <img src="./icons/Python-Dark.svg" width="48">     |
-
-|        <img src="./icons/CPP.svg" width="48">         |
+|    <img src="./icons/Lua-Dark.svg" width="48">     |
 
 
 ## projects
