@@ -1,9 +1,8 @@
 # i'm sk
 
 ## i work with
-|       `C++`        |        <img src="./icons/CPP.svg" width="48">         |
-|        `py`        |    <img src="./icons/Python-Dark.svg" width="48">     |
-|        `Luau`      |    <img src="https://simpleicons.org" alt="Luau Icon" width="50" />     |
+|       `C++`        |        <img src="./icons/CPP.svg" width="48">         | \
+|        `Python`        |    <img src="./icons/Python-Dark.svg" width="48">     | \
 
 
 ## projects
