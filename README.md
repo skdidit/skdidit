@@ -1,4 +1,4 @@
-# 👋 Hi, I'm sk
+`# 👋 Hi, I'm sk
 
 | Tools & Platforms | Programming Languages |
 | --- | --- |
@@ -12,5 +12,3 @@
 a macOS executor with 100% sUNC and 99% UNC | [website](https://helios.best/) \
 \
 *and other stuff that i cant be bothered adding (fr)*
-
-![](gif.gif)
