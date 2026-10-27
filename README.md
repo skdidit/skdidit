@@ -1,6 +1,4 @@
-# I'm sk
-
-## I work with:
+# 👋 Hi, I'm sk
 
 | Tools & Platforms | Programming Languages |
 | --- | --- |
