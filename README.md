@@ -1,4 +1,4 @@
-`# 👋 Hi, I'm sk
+# 👋 Hi, I'm sk
 
 | Tools & Platforms | Programming Languages |
 | --- | --- |
