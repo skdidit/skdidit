@@ -13,7 +13,4 @@ a macOS executor with 100% sUNC and 99% UNC | [website](https://helios.best/) \
 \
 *and other stuff that i cant be bothered adding (fr)*
 
-## Contact
-discord: @sxbdu
-
 ![](gif.gif)
